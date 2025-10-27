@@ -42,6 +42,6 @@
 ## 📫 Como me contatar
 
 - LinkedIn: (https://www.linkedin.com/in/lisa-rios-5681061ab/) 
-- Email: lisariosnsantos@gmail.com  
+- Email: lisarios.dev@gmail.com  
 
 ✨ “Sempre aprendendo, sempre codando”  
