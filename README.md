@@ -1,47 +1,60 @@
-# Olá, eu sou a Lisa Rios 👋
+# Olá — eu sou a Lisa Rios 👋
 
-💻 Estudante de programação, apaixonada por lógica, desafios e construção de projetos.  
-🎯 Explorando diferentes linguagens e tecnologias para me tornar uma desenvolvedora completa.  
-📚 Sempre aprendendo e colocando em prática com exercícios, jogos e sistemas.  
+Sou desenvolvedora júnior em formação — explorando diferentes linguagens e tecnologias (C, JavaScript, HTML/CSS) para me tornar uma desenvolvedora completa. Aqui no meu GitHub mostro projetos práticos, exercícios e mini-aplicações que construí enquanto estudo e me preparo para oportunidades na área.
 
-## 🛠 Tecnologias e Ferramentas
+---
 
-### Linguagens de Programação
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+## 🎯 Objetivo
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
+Atuar como desenvolvedora júnior (front-end / back-end / full‑stack) em projetos que valorizem aprendizado contínuo, trabalho em equipe e resolução prática de problemas.
 
-### Outras Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-000?logo=linux&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
+---
 
+## 🛠️ Tecnologias
 
-## 📂 Projetos em Destaque
+* Linguagens: JavaScript, C, HTML, CSS, Python (básico)
+* Ferramentas: Git, GitHub, VS Code, PyCharm
+* Conceitos: CRUD, DOM, lógica algorítmica, modelagem conceitual
 
-- [**programacaoC**](https://github.com/lisarioss/programacaoC) — exercícios em C  
-- [**super_trunfo.c**](https://github.com/lisarioss/super_trunfo.c) — jogo em C  
-- [**Jogo-Jokenpô**](https://github.com/lisarioss/Jogo-Jokenp-) — jogo em C  
-- [**Jogo-Maior-Menor-ou-Igual**](https://github.com/lisarioss/Jogo-Maior-Menor-ou-Igual) — lógica de comparação em C  
+---
 
+## 🚀 Projetos em destaque
 
-## 📈 Estatísticas do GitHub
+> *Estes são os projetos que melhor mostram minhas habilidades hoje — clique para abrir.*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisarioss&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisarioss&layout=compact&theme=dracula)
+* **Gerador de Senhas** — app simples em JavaScript que gera senhas seguras com opções de tamanho e caracteres. (link: `lisarioss/gerador-de-senha`)
+* **Lista de Tarefas (To‑Do App)** — CRUD no front-end com LocalStorage; foco em boas práticas para portfólio. (link: `lisarioss/lista-de-tarefas`)
+* **Analisador de Números** — projeto em HTML/JS para análise e demonstração de lógica. (link: `lisarioss/analisador-de-numeros`)
+* **Projetos em C** — repositórios com exercícios e pequenos programas em C que demonstram lógica e sintaxe. (link: `lisarioss/*-C`)
 
+---
 
-## 📫 Como me contatar
+## 📄 README / Estrutura que uso para cada projeto (modelo)
 
-- LinkedIn: (https://www.linkedin.com/in/lisa-rios-5681061ab/) 
-- Email: lisarios.dev@gmail.com  
+1. Título do projeto
+2. Descrição curta (1–2 linhas)
+3. Tecnologias
+4. Funcionalidades
+5. Como rodar / instalar
+6. Exemplos/screenshots
+7. Status / próximo passos
+8. Licença (opcional)
 
-✨ “Sempre aprendendo, sempre codando”  
+---
+
+## 📫 Contato
+
+* LinkedIn: [https://www.linkedin.com/in/lisarioss](https://www.linkedin.com/in/lisarioss) (link no perfil)
+* Email: lisarios.dev@gmail.com
+
+---
+
+## 📈 Estatísticas (opcionais)
+
+Você pode usar badges e widgets como **GitHub Readme Stats** para mostrar: total de commits, linguagens mais usadas e um calendário de contribuições. Exemplo de uso (insira no README com seu usuário):
+
+```md
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisarioss&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=lisarioss&show_icons=true)
+```
+
