@@ -1,60 +1,81 @@
-# Olá — eu sou a Lisa Rios 👋
+<h1 align="center">👋 Olá! Eu sou a LISA</h1>
 
-Sou desenvolvedora júnior em formação — explorando diferentes linguagens e tecnologias (C, JavaScript, HTML/CSS) para me tornar uma desenvolvedora completa. Aqui no meu GitHub mostro projetos práticos, exercícios e mini-aplicações que construí enquanto estudo e me preparo para oportunidades na área.
-
----
-
-## 🎯 Objetivo
-
-Atuar como desenvolvedora júnior (front-end / back-end / full‑stack) em projetos que valorizem aprendizado contínuo, trabalho em equipe e resolução prática de problemas.
+<p align="center">Desenvolvedora em formação • Focada em Front-end, Lógica e Fundamentos de Programação</p>
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Sobre mim
 
-* Linguagens: JavaScript, C, HTML, CSS, Python (básico)
-* Ferramentas: Git, GitHub, VS Code, PyCharm
-* Conceitos: CRUD, DOM, lógica algorítmica, modelagem conceitual
+Sou apaixonada por tecnologia e estou construindo minha trajetória como **desenvolvedora júnior**, com foco em lógica, Web e boas práticas de programação.
 
----
-
-## 🚀 Projetos em destaque
-
-> *Estes são os projetos que melhor mostram minhas habilidades hoje — clique para abrir.*
-
-* **Gerador de Senhas** — app simples em JavaScript que gera senhas seguras com opções de tamanho e caracteres. (link: `lisarioss/gerador-de-senha`)
-* **Lista de Tarefas (To‑Do App)** — CRUD no front-end com LocalStorage; foco em boas práticas para portfólio. (link: `lisarioss/lista-de-tarefas`)
-* **Analisador de Números** — projeto em HTML/JS para análise e demonstração de lógica. (link: `lisarioss/analisador-de-numeros`)
-* **Projetos em C** — repositórios com exercícios e pequenos programas em C que demonstram lógica e sintaxe. (link: `lisarioss/*-C`)
+Atualmente estou:
+- 📘 Fortalecendo minha base em HTML, CSS, JavaScript e C  
+- 💻 Criando projetos para evoluir minhas habilidades  
+- 🎯 Buscando minha primeira oportunidade como **Desenvolvedora Júnior**  
+- 🌱 Estudando diariamente para melhorar minhas práticas
 
 ---
 
-## 📄 README / Estrutura que uso para cada projeto (modelo)
+## 🛠️ Tecnologias e Ferramentas
 
-1. Título do projeto
-2. Descrição curta (1–2 linhas)
-3. Tecnologias
-4. Funcionalidades
-5. Como rodar / instalar
-6. Exemplos/screenshots
-7. Status / próximo passos
-8. Licença (opcional)
+**Linguagens**
+- HTML5 • CSS3 • JavaScript (ES6+) • C  
 
----
-
-## 📫 Contato
-
-* LinkedIn: [https://www.linkedin.com/in/lisarioss](https://www.linkedin.com/in/lisarioss) (link no perfil)
-* Email: lisarios.dev@gmail.com
+**Ferramentas**
+- Git & GitHub  
+- VS Code  
+- Linux Ubuntu  
 
 ---
 
-## 📈 Estatísticas (opcionais)
+## 📌 Projetos em Destaque
 
-Você pode usar badges e widgets como **GitHub Readme Stats** para mostrar: total de commits, linguagens mais usadas e um calendário de contribuições. Exemplo de uso (insira no README com seu usuário):
+### 🔹 Gerador de Senhas  
+Ferramenta interativa para gerar senhas personalizadas, utilizando lógica, DOM e boas práticas de JavaScript.  
+➡️ *Repositório:* `gerador-de-senhas`
 
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisarioss&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=lisarioss&show_icons=true)
-```
+---
 
+### 🔹 Tetris-Stack  
+Simulação lógica do empilhamento de peças do Tetris.  
+Demonstra raciocínio, algoritmos e estruturas fundamentais.  
+➡️ *Repositório:* `Tetris-Stack`
+
+---
+
+### 🔹 Detetive-Quest  
+Mini jogo investigativo baseado em pistas e fluxo de decisão.  
+Mostra estrutura de código, lógica e pensamento estruturado.  
+➡️ *Repositório:* `Detetive-Quest`
+
+---
+
+## 🎯 Objetivos
+
+- Conseguir minha primeira oportunidade como **Dev Júnior**  
+- Criar projetos cada vez mais completos e bem documentados  
+- Evoluir para áreas como Front-End e Back-End no futuro  
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=lisarioss&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisarioss&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Vamos nos conectar!
+
+<p align="left">
+📌 **LinkedIn**: (adicione aqui quando quiser)  
+📌 **Portfólio**: em construção  
+</p>
+
+---
+
+<p align="center">💙 Obrigada por visitar meu perfil! Sempre aprendendo, sempre evoluindo.</p>
