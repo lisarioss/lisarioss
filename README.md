@@ -72,7 +72,7 @@ Mostra estrutura de código, lógica e pensamento estruturado.
 ## 🤝 Vamos nos conectar!
 
 <p align="left">
-📌 **LinkedIn**: (adicione aqui quando quiser)  
+📌 **LinkedIn**: https://linkedin.com/in/lisa-rios-5681061ab
 📌 **Portfólio**: em construção  
 </p>
 
